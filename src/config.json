@@ -1,0 +1,7 @@
+{
+    "BaseUrl": "http://localhost:5000/",
+    "PokedexEndpoint": "api/pokedex/",
+    "TypeDistinctionEndpoint": "api/typedistinction/",
+    "GetPokedexByName": "name/",
+    "GetPokedexStrongAgainst": "strongAgainst/"
+}
