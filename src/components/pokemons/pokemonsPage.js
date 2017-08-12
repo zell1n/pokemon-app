@@ -8,10 +8,6 @@ var _ = require('underscore');
 var PokemonList = require('./pokemonList');
 var PokemonSearch = require('./pokemonSearch');
 
-//const baseUrl = 'https://zvbsan9gh3.execute-api.eu-west-1.amazonaws.com/Prod/';
-// const baseUrl = 'http://localhost:5000/'
-// const endpoint = 'api/pokedex';
-
 var PokemonsPage = React.createClass({
     getInitialState: function () {
         return {

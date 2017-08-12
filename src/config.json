@@ -1,4 +1,5 @@
 {
+    "BaseUrlProd": "https://zvbsan9gh3.execute-api.eu-west-1.amazonaws.com/Prod/",
     "BaseUrl": "http://localhost:5000/",
     "PokedexEndpoint": "api/pokedex/",
     "TypeDistinctionEndpoint": "api/typedistinction/",

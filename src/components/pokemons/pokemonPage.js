@@ -5,10 +5,6 @@ var axios = require('axios');
 var Router = require('react-router');
 var Link = Router.Link;
 
-// const baseUrl = 'http://localhost:5000/'
-// const pokeindexEndpoint = 'api/pokedex/pokeindex/';
-// const strongAgainstEndpoint = 'api/pokedex/strongAgainst/';
-
 var renderType = function(types) {
     if (types) {
         if (types.length > 1) {
